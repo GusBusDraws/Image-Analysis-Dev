@@ -20,6 +20,7 @@ Within Exascale Computing Workflows
 
 ## Change log
 ### merge-regions
+2025-09-10: Add NB 52 for sampling subvolumes
 2025-08-19: Add NB 51 for downsampling & segmenting the prill for testing
 2025-08-12: Create concatenated CSV file with combined info about split segmentations
 2025-08-12: Add NB 50 to continue with development that started in NB 40
