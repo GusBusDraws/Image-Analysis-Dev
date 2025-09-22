@@ -20,6 +20,7 @@ Within Exascale Computing Workflows
 
 ## Change log
 ### merge-regions
+2025-09-22: Add NB 54 for visualizing aggregated subvolumes
 2025-09-19: Add NB 53 for saving subvolume voxels and STLs
 2025-09-18: Build function with NB 52 logic
 2025-09-10: Add NB 52 for sampling subvolumes
