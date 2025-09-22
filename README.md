@@ -20,21 +20,21 @@ Within Exascale Computing Workflows
 
 ## Change log
 ### merge-regions
-2025-09-22: Add NB 54 for visualizing aggregated subvolumes
-2025-09-19: Add NB 53 for saving subvolume voxels and STLs
-2025-09-18: Build function with NB 52 logic
-2025-09-10: Add NB 52 for sampling subvolumes
-2025-08-19: Add NB 51 for downsampling & segmenting the prill for testing
-2025-08-12: Create concatenated CSV file with combined info about split segmentations
-2025-08-12: Add NB 50 to continue with development that started in NB 40
-2025-08-12: Rename old branch `dev-region-merging` and merge changes from `main`
+- 2025-09-22: Add NB 54 for visualizing aggregated subvolumes
+- 2025-09-19: Add NB 53 for saving subvolume voxels and STLs
+- 2025-09-18: Build function with NB 52 logic
+- 2025-09-10: Add NB 52 for sampling subvolumes
+- 2025-08-19: Add NB 51 for downsampling & segmenting the prill for testing
+- 2025-08-12: Create concatenated CSV file with combined info about split segmentations
+- 2025-08-12: Add NB 50 to continue with development that started in NB 40
+- 2025-08-12: Rename old branch `dev-region-merging` and merge changes from `main`
 
 ### ct-verif
-2025-08-12: Update resolution calculations and full grain particle estimations
-2025-08-11: Add NB 49 to develop workflow for CT verification paper
+- 2025-08-12: Update resolution calculations and full grain particle estimations
+- 2025-08-11: Add NB 49 to develop workflow for CT verification paper
 
 ### Previous branches
-2024-08-05: Add NB 46 for developing a radial_filter function
-2024-05-08: Add NB 44 for creating frames of a slice-through animation of a sample.
-2024-05-08: Add Change Log to README
+- 2024-08-05: Add NB 46 for developing a radial_filter function
+- 2024-05-08: Add NB 44 for creating frames of a slice-through animation of a sample.
+- 2024-05-08: Add Change Log to README
 
